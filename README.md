@@ -1,5 +1,9 @@
 # Jasmine MVC Challenge
 
+> Note: This challenge doesn't include Jasmine. You'll need to install the
+> jasmine-rails gem. Be sure to write a simple test to verify everything is
+> working.
+
 ## Models - Release 0
 
 Create a `Tweet` model and write Jasmine tests for the following
@@ -28,4 +32,7 @@ Create a view that replaces the existing new tweet form on the homepage. Don't f
 
 All aspects of your new tweet form should be tested using Jasmine.
 
+## Strech
 
+1. Replace the timeline view with additional views & write tests for them.
+2. Add some sort of easter egg with Sylvester the Cat
