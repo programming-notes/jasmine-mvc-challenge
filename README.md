@@ -32,7 +32,7 @@ Create a view that replaces the existing new tweet form on the homepage. Don't f
 
 All aspects of your new tweet form should be tested using Jasmine.
 
-## Strech
+## Stretch
 
 1. Replace the timeline view with additional views & write tests for them.
 2. Add some sort of easter egg with Sylvester the Cat
