@@ -28,7 +28,8 @@ Create a view that replaces the existing new tweet form on the homepage.  The tw
 6. Save the tweet to the server when the submit button is clicked
 7. Reload the page when the new tweet has been successfully saved
 
-All aspects of your new tweet form should be tested using Jasmine.
+*Note:*  It's not required to test these behaviors.
+
 
 ## Stretch
 
